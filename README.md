@@ -1,4 +1,11 @@
 # Snake_game
+1->download every file in the repository or create a zip folder use snake_game2 as it will support normal users the other one is for mysql having a password so use 2nd one.
+2-> I didn't created an exe file as microsoft detected it as a virus.
+3->REMEMBER TO ONLY TRY TO RUN :snake_game2.py
+
+
+
+
 "Dive into the entertaining world of 'Shinchan Snake Adventure,' a thrilling Python-based snake game that brings a unique twist to the classic gameplay! This game promises a delightful experience, combining the excitement of a snake chase with the humor of Shinchan.
 
 Key Features:
